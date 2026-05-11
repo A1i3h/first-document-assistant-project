@@ -1,0 +1,4 @@
+CHUNK_SIZE = 550
+CHUNK_OVERLAP = 100
+RETRIEVAL_TOP_K = 4
+EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
